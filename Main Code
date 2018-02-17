@@ -1,2 +1,13 @@
-#Here's our code
+#All code, organized by purpose
 
+*VARIABLE DETAILS
+        *CONVCODE
+                  *4725: DWI - AGGRAVATED LEVEL 1
+                  *5511: DWI - LEVEL 1
+                  *5512: DWI - LEVEL 2
+                  *5513: DWI - LEVEL 3
+                  *5514: DWI - LEVEL 4
+                  *5515: DWI - LEVEL 5
+*
+sum CONVCODE
+sum 
