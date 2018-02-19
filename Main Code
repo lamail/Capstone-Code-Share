@@ -8,6 +8,13 @@
                   *5513: DWI - LEVEL 3
                   *5514: DWI - LEVEL 4
                   *5515: DWI - LEVEL 5
-*
+                 
+       *PLEA
+                  *GA: Alford Plea
+                  *GL: Guilty to Lesser
+                  *NC: No contest
+                  *GU: Guilty
+                  
+        
 sum CONVCODE
 sum 
