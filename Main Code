@@ -15,6 +15,24 @@
                   *NC: No contest
                   *GU: Guilty
                   
+       *ASU
+                  *1 - Active Sentence
+                  *2 - Supervised Probation
+                  *3 - Unsupervised Probation
+                  
+       *NEWDISP (Mode of Disposition)
+                  *1 - Guilty Plea
+                  *2 - Bench Trial
+                  *3 - Jury Trial
+                  
+       *BACCAT
+                  *1 - Measured BAC below .08
+                  *2 - Measured BAC from .08 to .14
+                  *3 - Measured BAC above .15
+                  *4 - Refused to take BAC test
+                  *5 - Test administered through blood test
+                  *6 - BAC test not required
+                  *7 - DWI contained substance other than alcohol
         
 sum CONVCODE
 sum 
